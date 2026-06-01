@@ -155,3 +155,11 @@ clean profitability) point there. Awaiting user steer.
 - 2026-06-01: Phase-1 live verification killed A-firewall (Coinbase), PM-router,
   PM-copy, HIP-3; reshaped PM picture (volume fleeing on-chain → Kalshi CEX). PM lane
   dropped. Meta-insight + open fork recorded.
+- 2026-06-01: KILLED (P)-MEV/OEV-recapture after live check — OEV recapture is a
+  maturing oligopoly (Chainlink SVR ~99% share across Aave/Compound/Venus; bought
+  Atlas/FastLane Jan 2026; + UMA Oval, API3, Pyth Express Relay, RedStone). Integration
+  is one-line for incumbents; AI is not the hero. Detail in Stream G.
+- 2026-06-01: KEY REFRAME — every "capture-flow-regardless" chokepoint is already owned
+  (oracles, payments, MEV, sequencing, launchpads); a <$5k newcomer can't seize one.
+  New thesis: WIN A NICHE on genuine novelty + AI-as-hero (relax "zero adoption" →
+  "no MASS adoption"). Spun up fresh hunt → research/G-hunt-v4-novel-ai-native.md.
