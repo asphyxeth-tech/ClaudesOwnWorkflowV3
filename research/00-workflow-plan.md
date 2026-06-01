@@ -172,3 +172,10 @@ clean profitability) point there. Awaiting user steer.
   "α-ramp to β": bootstrap a structural AI-edged money-engine from a public track record,
   compound with its own earnings. Deep-dive launched on 2 finalists: H1 AI-managed
   non-custodial DeFi vaults; H2 builder-fee AI execution on perps.
+- 2026-06-01: Deep-dive verdicts (Stream H) — BOTH finalists = CONDITIONAL BET (first
+  survivors of the whole process). H2 (builder-fee AI exec on Hyperliquid) self-funds from
+  day one but is crowded / HL-dependent / US-blocked + AI=execution-edge not hero. H1 (AI
+  Morpho vault curation) is more prestigious/defensible but ~$0 for ~6mo, breakeven ≈$10M
+  TVL (18–30mo grind). RECOMMENDATION: lead with H2 (ramp that self-funds), reinvest into
+  H1 (β destination); shared AI-risk engine + Base-token playbook. Awaiting user pick →
+  Phase 3 (converge + de-risk).
