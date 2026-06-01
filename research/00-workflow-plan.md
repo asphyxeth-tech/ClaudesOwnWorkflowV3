@@ -163,3 +163,12 @@ clean profitability) point there. Awaiting user steer.
   (oracles, payments, MEV, sequencing, launchpads); a <$5k newcomer can't seize one.
   New thesis: WIN A NICHE on genuine novelty + AI-as-hero (relax "zero adoption" →
   "no MASS adoption"). Spun up fresh hunt → research/G-hunt-v4-novel-ai-native.md.
+- 2026-06-01: Stream G hunt (4 adversarial agents) → 0 clean bets; 3 clusters empty, G4's
+  lone survivor (AI-game protocol) failed verification (stale meta + 2026 gambling
+  crackdown + weak moat). Surfaced the real fork: "capture-flow-regardless" and "<$5k
+  no-capital" are mutually exclusive → bend capital (β) or adoption (α).
+- 2026-06-01: USER DECISION — start ~$0 (grind = α), self-fund via Base token
+  (Bankr/Clanker) trading fees + protocol revenue, REINVEST earnings later (→ β). Lane =
+  "α-ramp to β": bootstrap a structural AI-edged money-engine from a public track record,
+  compound with its own earnings. Deep-dive launched on 2 finalists: H1 AI-managed
+  non-custodial DeFi vaults; H2 builder-fee AI execution on perps.
